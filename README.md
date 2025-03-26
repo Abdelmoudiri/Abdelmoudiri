@@ -1,20 +1,19 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Abdeljabbar%20MOUDIRI&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Passionné%20de%20Développement%20Full-Stack&descAlignY=51&descAlign=62" />
-</p>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=6C33F7&width=600&lines=Bienvenue+dans+mon+univers+digital+!;Développeur+Full-Stack+du+Maroc;Transformant+des+idées+en+réalité;Amoureux+du+code+propre+et+efficace" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png" alt="Bienvenue" />
+  <h1>👋 Je suis Abdeljabbar MOUDIRI</h1>
+  <h3>Développeur Full Stack Web du Maroc 🇲🇦</h3>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdelouahmoudiri&label=Visites&color=6C33F7&style=flat" alt="Compteur de profil" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C33F7&center=true&width=500&lines=Bienvenue+dans+mon+univers+digital+!;Développeur+Full+Stack+Web;Passionné+par+les+technologies+modernes;Créateur+de+solutions+innovantes" alt="Typing SVG" />
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> À propos de moi
+## 🚀 À propos de moi
 
 ```javascript
 const abdeljabbar = {
   origine: "Maroc 🇲🇦",
+  titre: "Développeur Full Stack Web",
   code: ["JavaScript", "TypeScript", "PHP", "HTML/CSS", "Python"],
   technologies: {
     frontEnd: {
@@ -30,42 +29,42 @@ const abdeljabbar = {
   },
   architecture: ["Single Page Applications", "Microservices", "Progressive Web Apps"],
   défiFavori: "Refactoriser du code plus vite que de préparer un thé ☕",
-  objectif: "Créer des applications qui résolvent des problèmes réels et améliorent la vie des utilisateurs"
+  objectif: "Créer des applications web robustes qui résolvent des problèmes réels"
 };
 ```
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Projets en cours
+## 🌱 Projets en cours
 
 <div align="center">
   <table>
     <tr>
       <td>
         <a href="#">
-          <img src="https://img.shields.io/badge/-%F0%9F%8C%90%20Application%20Web%20de%20Gestion%20Communale-2962FF?style=for-the-badge" alt="Application Web de Gestion Communale" />
+          <img src="https://img.shields.io/badge/Application%20Web%20de%20Gestion%20Communale-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Application Web de Gestion Communale" />
         </a>
       </td>
       <td>
         <a href="#">
-          <img src="https://img.shields.io/badge/-%F0%9F%8C%B1%20Apprentissage%20de%20Microservices,%20Docker,%20Laravel%20Avancé-2962FF?style=for-the-badge" alt="Apprentissage actuel" />
+          <img src="https://img.shields.io/badge/Microservices%20Docker%20Laravel-FF6C37?style=for-the-badge&logo=docker&logoColor=white" alt="Microservices Docker Laravel" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://abdelouahmoudiri.github.io/MOUDIRI_Abdeljabbar_Portfolio/">
-          <img src="https://img.shields.io/badge/-%F0%9F%93%82%20Portfolio%20Complet-2962FF?style=for-the-badge" alt="Portfolio Complet" />
+          <img src="https://img.shields.io/badge/Portfolio%20Complet-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio Complet" />
         </a>
       </td>
       <td>
         <a href="#">
-          <img src="https://img.shields.io/badge/-%F0%9F%92%AC%20Expert%20React.js,%20Développement%20Full--stack-2962FF?style=for-the-badge" alt="Expert React.js, Développement Full-stack" />
+          <img src="https://img.shields.io/badge/Expert%20React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Expert React.js" />
         </a>
       </td>
     </tr>
   </table>
 </div>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Contactez-moi
+## 📫 Contactez-moi
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abdeljabbar-moudiri">
@@ -79,52 +78,73 @@ const abdeljabbar = {
   </a>
 </div>
 
-## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="30"> Compétences et Outils
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,python,react,vue,laravel,nodejs,express,html,css,tailwind,bootstrap,sass,mysql,mongodb,postgres,docker,aws,git,github,vscode&perline=11" />
-</p>
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> Statistiques GitHub
+## 💻 Compétences et Outils
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdelouahmoudiri&theme=dracula&column=7&margin-w=15&margin-h=15" alt="Trophées GitHub" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+  <a href="https://github.com/abdelouahmoudiri">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abdelouahmoudiri&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdelouahmoudiri&layout=compact&langs_count=7&theme=radical" />
+  </a>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdelouahmoudiri&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelouahmoudiri&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/abdelouahmoudiri">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelouahmoudiri&theme=radical&hide_border=true" alt="Statistiques de contributions" />
+  </a>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelouahmoudiri&theme=radical" alt="Contributions consécutives" />
-</p>
-
-## <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="30"> Projets phares
+## 🏆 Projets phares
 
 <div align="center">
   <a href="https://github.com/abdelouahmoudiri/Brief-Number-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelouahmoudiri&repo=Brief-Number-2&theme=radical" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=abdelouahmoudiri&repo=Brief-Number-2&theme=radical" />
   </a>
   <a href="https://github.com/abdelouahmoudiri/Project-SAS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelouahmoudiri&repo=Project-SAS&theme=radical" />
-  </a>
-  <a href="https://github.com/abdelouahmoudiri/Calcule_HTML">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelouahmoudiri&repo=Calcule_HTML&theme=radical" />
-  </a>
-  <a href="https://github.com/abdelouahmoudiri/Html-Css-Js">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelouahmoudiri&repo=Html-Css-Js&theme=radical" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=abdelouahmoudiri&repo=Project-SAS&theme=radical" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+  <a href="https://github.com/abdelouahmoudiri/Calcule_HTML">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=abdelouahmoudiri&repo=Calcule_HTML&theme=radical" />
+  </a>
+  <a href="https://github.com/abdelouahmoudiri/Html-Css-Js">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=abdelouahmoudiri&repo=Html-Css-Js&theme=radical" />
+  </a>
 </div>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Citation aléatoire" />
-</p>
+## 💡 Citation
 
-<p align="center">
-  <img src="https://github.com/abdelouahmoudiri/abdelouahmoudiri/blob/output/github-contribution-grid-snake-dark.svg" alt="Animation du serpent" />
-</p>
+<div align="center">
+  <blockquote>
+    "Le code propre fait ce à quoi on s'attend... et fait exactement ce qu'il montre."
+  </blockquote>
+  <p>- Robert C. Martin (Uncle Bob)</p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdelouahmoudiri&color=blueviolet&style=flat-square&label=Visites+du+profil" alt="Visites" />
+</div>
