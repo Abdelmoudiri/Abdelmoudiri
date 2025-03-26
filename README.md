@@ -51,7 +51,7 @@ const abdeljabbar = {
     </tr>
     <tr>
       <td>
-        <a href="https://abdelouahmoudiri.github.io/MOUDIRI_Abdeljabbar_Portfolio/">
+        <a href="https://Abdelmoudiri.github.io/MOUDIRI_Abdeljabbar_Portfolio/">
           <img src="https://img.shields.io/badge/Portfolio%20Complet-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio Complet" />
         </a>
       </td>
@@ -73,7 +73,7 @@ const abdeljabbar = {
   <a href="mailto:abdeljabbarmoudiri17@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/abdelouahmoudiri">
+  <a href="https://github.com/Abdelmoudiri">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
@@ -102,35 +102,35 @@ const abdeljabbar = {
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <a href="https://github.com/abdelouahmoudiri">
+  <a href="https://github.com/Abdelmoudiri">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abdelmoudiri&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abdelmoudiri&layout=compact&langs_count=7&theme=radical" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/abdelouahmoudiri">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelouahmoudiri&theme=radical&hide_border=true" alt="Statistiques de contributions" />
+  <a href="https://github.com/Abdelmoudiri">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelmoudiri&theme=radical&hide_border=true" alt="Statistiques de contributions" />
   </a>
 </div>
 
 ## 🏆 Projets phares
 
 <div align="center">
-  <a href="https://github.com/abdelouahmoudiri/Brief-Number-2">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=abdelouahmoudiri&repo=Brief-Number-2&theme=radical" />
+  <a href="https://github.com/Abdelmoudiri/Brief-Number-2">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Abdelmoudiri&repo=Brief-Number-2&theme=radical" />
   </a>
-  <a href="https://github.com/abdelouahmoudiri/Project-SAS">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=abdelouahmoudiri&repo=Project-SAS&theme=radical" />
+  <a href="https://github.com/Abdelmoudiri/Project-SAS">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Abdelmoudiri&repo=Project-SAS&theme=radical" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/abdelouahmoudiri/Calcule_HTML">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=abdelouahmoudiri&repo=Calcule_HTML&theme=radical" />
+  <a href="https://github.com/Abdelmoudiri/Calcule_HTML">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Abdelmoudiri&repo=Calcule_HTML&theme=radical" />
   </a>
-  <a href="https://github.com/abdelouahmoudiri/Html-Css-Js">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=abdelouahmoudiri&repo=Html-Css-Js&theme=radical" />
+  <a href="https://github.com/Abdelmoudiri/Html-Css-Js">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Abdelmoudiri&repo=Html-Css-Js&theme=radical" />
   </a>
 </div>
 
@@ -146,5 +146,5 @@ const abdeljabbar = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdelouahmoudiri&color=blueviolet&style=flat-square&label=Visites+du+profil" alt="Visites" />
+  <img src="https://komarev.com/ghpvc/?username=Abdelmoudiri&color=blueviolet&style=flat-square&label=Visites+du+profil" alt="Visites" />
 </div>
