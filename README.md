@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png" alt="Bienvenue" />
   <h1>👋 Je suis Abdeljabbar MOUDIRI</h1>
-  <h3>Développeur Full Stack Web du Maroc 🇲🇦</h3>
+  <h1>Développeur Full Stack Web du Maroc 🇲🇦</h1>
 </div>
 
 <p align="center">
