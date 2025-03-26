@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C33F7&center=true&width=500&lines=Bienvenue+dans+mon+univers+digital+!;Développeur+Full+Stack+Web;Passionné+par+les+technologies+modernes;Créateur+de+solutions+innovantes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=0F6EFF&background=51FF3300&center=true&vCenter=true&width=550&height=70&lines=Bienvenue+dans+mon+univers+digital+!;%F0%9F%92%BB+D%C3%A9veloppeur+Full+Stack+Web;%F0%9F%9A%80+Passionn%C3%A9+par+les+technologies+modernes;%F0%9F%92%A1+Cr%C3%A9ateur+de+solutions+innovantes;%E2%9C%A8+Expert+en+React+%26+Laravel" alt="Typing SVG" />
 </p>
 
 ## 🚀 À propos de moi
