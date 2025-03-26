@@ -120,17 +120,17 @@ const abdeljabbar = {
   <a href="https://github.com/Abdelmoudiri/SmartShelf">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Abdelmoudiri&repo=SmartShelf&theme=radical" />
   </a>
-  <a href="https://github.com/Abdelmoudiri/Project-SAS">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Abdelmoudiri&repo=Project-SAS&theme=radical" />
+  <a href="https://github.com/Abdelmoudiri/Youdemy">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Abdelmoudiri&repo=Youdemy&theme=radical" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/Abdelmoudiri/Calcule_HTML">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Abdelmoudiri&repo=Calcule_HTML&theme=radical" />
+  <a href="https://github.com/Abdelmoudiri/FUT-Champions-Web-App-Ultimate-Team">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Abdelmoudiri&repo=FUT-Champions-Web-App-Ultimate-Team&theme=radical" />
   </a>
-  <a href="https://github.com/Abdelmoudiri/Html-Css-Js">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Abdelmoudiri&repo=Html-Css-Js&theme=radical" />
+  <a href="https://github.com/Abdelmoudiri/AvocatConnect">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Abdelmoudiri&repo=AvocatConnect&theme=radical" />
   </a>
 </div>
 
