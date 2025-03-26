@@ -117,8 +117,8 @@ const abdeljabbar = {
 ## 🏆 Projets phares
 
 <div align="center">
-  <a href="https://github.com/Abdelmoudiri/Brief-Number-2">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Abdelmoudiri&repo=Brief-Number-2&theme=radical" />
+  <a href="https://github.com/Abdelmoudiri/SmartShelf">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Abdelmoudiri&repo=SmartShelf&theme=radical" />
   </a>
   <a href="https://github.com/Abdelmoudiri/Project-SAS">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Abdelmoudiri&repo=Project-SAS&theme=radical" />
