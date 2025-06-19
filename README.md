@@ -3,7 +3,7 @@
   <h1>👋 Je suis Abdeljabbar MOUDIRI</h1>
 <h1 align="center">
   <span style="font-size: 32px; background: linear-gradient(to right, #0F6EFF, #8A2BE2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 700; letter-spacing: 1px;">
-    Développeur Full Stack Web du Maroc 🇲🇦
+    Développeur Full Stack Web
   </span>
 </h1>
 </div>
